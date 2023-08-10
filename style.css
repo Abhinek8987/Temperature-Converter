@@ -1,0 +1,36 @@
+h2{
+    color:aqua;
+}
+p{
+    font-size: 20px;
+}
+input[type=number]{
+    font-size: 18px;
+    size:15;
+}
+#Celcius{
+    box-sizing: border-box;
+    width: 250px;
+    border:2px solid white;
+}
+.container{
+    background: linear-gradient(180deg, red , white);
+    /* background-color: aqua;*/
+    /* background-color: violet; */
+    width:fit-content;
+    margin-top: 200px;
+
+}
+body{
+    /* background-color:tan; */
+    background: linear-gradient(90deg, orange , yellow);
+}
+.container1{
+    /* background-color: sienna; */
+    background: linear-gradient(yellow , red);
+    /* color:darkkhaki; */
+    outline: none;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border:6px solid  sandybrown;
+}
