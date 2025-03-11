@@ -10,7 +10,8 @@ A simple and responsive Temperature Converter web application built using HTML, 
 
 # 📸 Screenshots
 
-![Temperature](https://github.com/user-attachments/assets/5d6add8e-d515-45fe-8926-f33f653e8fe0)
+![image](https://github.com/user-attachments/assets/f6a289e2-489a-4331-a572-d0834cf022b7)
+
 
 # 💻 Technologies Used
 HTML - Structure of the webpage.
